@@ -1,0 +1,17 @@
+{
+  "name": "family-travel-tracker",
+  "version": "1.0.0",
+  "description": "keep record of all the countries each family members have visited",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harsh",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "pg": "^8.12.0"
+  }
+}
